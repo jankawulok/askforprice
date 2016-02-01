@@ -1,0 +1,13 @@
+[{shop_url}] 
+
+Negocjacja ceny {shop_name}
+
+Twoja propozycja ceny została wysłana pomyślnie.
+
+WIADOMOŚĆ: {message}
+CENA: {suggested_price} {id_product}
+ILOSC: {product_qty}
+PRODUKT: {product_name}
+Postaramy się odpowiedzieć tak szybko jak to możliwe. 
+
+{shop_name} [{shop_url}]
