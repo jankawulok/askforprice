@@ -93,7 +93,6 @@ class Askforprice extends Module
         $this->context->smarty->assign('module_dir', $this->_path);
 
         $output = $this->context->smarty->fetch($this->local_path.'views/templates/admin/configure.tpl');
-
         return $output.$this->renderForm();
     }
 

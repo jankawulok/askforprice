@@ -19,6 +19,7 @@ $_MODULE['<{askforprice}prestashop>form_eb5d1fb5569da6ef26ecc8d57d4d2074'] = 'Ne
 $_MODULE['<{askforprice}prestashop>form_4ec1c39345fe8820d68463eea8803b0f'] = 'Wiadomość została wysłana.';
 $_MODULE['<{askforprice}prestashop>form_7c9d4636fc5ed97bb78bc2aac486beab'] = 'Wiadomość została już wysłana.';
 $_MODULE['<{askforprice}prestashop>form_dfcb35494ccd6b5772aba9a34f4f5773'] = 'Negocjuj cenę produktu';
+$_MODULE['<{askforprice}prestashop>form_6036e25f9ace83452dc998262e5fb8cf'] = ' Negocjacje cenowe. Wypełnij formularz, podając powód negocjacji (np. koniecznie podaj działający link do produktu w sklepie, w którym znalazłeś dany produkt taniej niż u nas). Wpisz poprawny adres e-mail, ponieważ za jego pomocą skontaktujemy się z Tobą w ciągu 1 dnia roboczego i przekażemy informację o naszej decyzji. Jeśli pozytywnie rozpatrzymy negocjacje produkty w wynegocjowanej cenie będą oczekiwały na zakup 2 dni robocze. Cenę negocjujesz dla wskazanej liczby produktów.';
 $_MODULE['<{askforprice}prestashop>form_b357b524e740bc85b9790a0712d84a30'] = 'Adres email';
 $_MODULE['<{askforprice}prestashop>form_921331d501d1ae98a2728f0a894f374c'] = 'Ilość ';
 $_MODULE['<{askforprice}prestashop>form_f44fc6cd274569fd327d9bccc761b066'] = 'szt.';

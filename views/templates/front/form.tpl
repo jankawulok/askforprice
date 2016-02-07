@@ -35,6 +35,7 @@
     <form action="{$request_uri}" method="post" class="contact-form-box" enctype="multipart/form-data">
         <fieldset>
         <h3 class="page-subheading">{l s='Negotiate product price'  mod='askforprice'}</h3>
+        <p>{l s='Your description' mod='askforprice'}</p>
         <div class="clearfix">
             <div class="col-xs-12 col-md-3">
                 <input type="hidden" name="id_contact" value="{$id_contact}" />

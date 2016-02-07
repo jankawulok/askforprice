@@ -1,4 +1,3 @@
-<?php
 /**
 * 2007-2015 PrestaShop
 * 2016 Jan Kawulok
