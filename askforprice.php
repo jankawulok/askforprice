@@ -261,7 +261,7 @@ class Askforprice extends Module
         array(
             'ASKFORPRICE_MINIMAL_PRICE' => Configuration::get('ASKFORPRICE_MINIMAL_PRICE', null),
             'askforprice_product_price' => $askforprice_product_price,
-            'askforprice_form_url' => $this->context->link->getModuleLink('askforprice', 'form').'&id_product='.$id_product
+            'askforprice_form_url' => $this->context->link->getModuleLink('askforprice', 'form', array('id_product' => $id_product))
         )
         );
         return $this->display($this->_path, 'views/templates/front/askforprice.tpl');
